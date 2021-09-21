@@ -1,7 +1,6 @@
-### 1차 프로젝트 Front-end / Back-end 소개
-
+## LaFesta Project Backend
 ---
-
+[![데모영상](https://i.postimg.cc/tTghFGyd/image.gif)](https://www.youtube.com/watch?v=epKkvWK1XUU)
 - 라코스테🐊 쇼핑몰 클론 프로젝트
 - 2주 프로젝트 기간동안 개발에 집중해야하므로 디자인/기획 부분만 클론하였습니다.
 - 개발은 초기 세팅부터 전부 직접 구현했으며, 아래 영상은 백엔드 서버와 연결하여 실제 사용할 수 있는 서비스 수준으로 개발한 것입니다.
@@ -12,31 +11,24 @@
 
 - 개발기간: 2021/08/30 ~ 2021/09/10
 - 개발인원: F/E 3명, B/E 3명
-- <a href="https://github.com/wecode-bootcamp-korea/24-1st-LaFesta-frontend">F/E gitHub</a>
+- <a href="https://github.com/wecode-bootcamp-korea/24-1st-LaFesta-frontend">F/E Git Repo</a>
+- 기술 스택 : Python, Django, MySQL
 
 ### 프로젝트 선정이유
 
 ---
 
-- 커머스 사이트로서 필요한 기본 기능들을 구현할 수 있고, 부가적으로 다양한 애니메이션 효과 및 레이아웃을 구상할 수 있어 선정 하였습니다.
-
-### 데모 영상
-
----
-
-- 완성 후 추가예정
-
-### 적용기술
-
----
-
-- 추후 추가예정
+- 커머스 사이트의 비즈니스 로직에 맞는 백엔드 API를 개발할 수 있어 선정하였습니다.
 
 ### 구현기능
 
 ---
 
-- 추후 추가예정
+- 로그인, 회원가입
+- 상품 목록 페이지 
+- 상품 상세 페이지
+- 장바구니 CRUD
+
 
 ### Reference
 
