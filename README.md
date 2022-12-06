@@ -6,7 +6,7 @@
 - 개발은 초기 세팅부터 전부 직접 구현했으며, 아래 영상은 백엔드 서버와 연결하여 실제 사용할 수 있는 서비스 수준으로 개발한 것입니다.
 
 > 이미지를 클릭하면 데모 영상 링크로 연결됩니다 </br>
-[프로젝트 회고록 포스트](https://velog.io/@hayejun1013/Project-8-%ED%8D%BC%EC%84%BC%ED%8A%B8-%ED%81%B4%EB%A1%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+[프로젝트 회고록 포스트](https://velog.io/@hayejun1013/Project-Lacoste-%ED%81%B4%EB%A1%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 </br>
 
